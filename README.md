@@ -13,16 +13,16 @@ The picture below shows the overall flow of the process and the list of acceptab
 ### Technologies used:
 LIRI Bot node application uses the below listed technologies to function.
 #### Dependencies on external APIs:
-- Node-Spotify-API
-- Bands In Town API
-- OMDB API
+-  Node-Spotify-API
+-  Bands In Town API
+-  OMDB API
 
 <br />
 
 #### JavaScript node Libraries
-Axios
-Moment
-DotEnv
+-  Axios
+-  Moment
+-  DotEnv
 
 
 ### How to run the liri node application:
@@ -83,7 +83,7 @@ a specific command to be executed along with its parameter.
 
 Any changes made to the text inside the random.txt, the LIRI Bot will execute the new command listed in the random.txt file.
 <br />
-A detailed list of actions on how to use this option is shown below as a reference. Refer to the full video here [![do-what-it-says](./assets/do-what-it-says.mp4)](do-what-it-says.mp4)
+A detailed list of actions on how to use this option is shown below as a reference. Refer to the full video here : path - "/assets/do-what-it-says.mp4"
 
 [![do-what-it-says](./assets/do-what-it-says.gif)](do-what-it-says.gif)
 
